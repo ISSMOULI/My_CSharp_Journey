@@ -12,3 +12,4 @@ C:\Users\ssmou\OneDrive\Desktop\C#\ConsoleApp1\obj\Debug\net9.0\refint\ConsoleAp
 C:\Users\ssmou\OneDrive\Desktop\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.pdb
 C:\Users\ssmou\OneDrive\Desktop\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\ssmou\OneDrive\Desktop\C#\ConsoleApp1\obj\Debug\net9.0\ref\ConsoleApp1.dll
+C:\Users\ssmou\OneDrive\Desktop\C#\ConsoleApp1\obj\Debug\net9.0\ConsoleApp1.sourcelink.json
