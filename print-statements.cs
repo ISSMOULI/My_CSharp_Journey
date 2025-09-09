@@ -11,3 +11,4 @@ string username = Console.ReadLine(); // takes user input
 int userage = Console.ReadLine(); // takes user input
 Console.WriteLine(username); // prints user input
 Console.WriteLine(userage); // prints user input
+Console.WriteLine("Hello " + username + ", you are " + userage + " years old."); // prints a greeting message with user input

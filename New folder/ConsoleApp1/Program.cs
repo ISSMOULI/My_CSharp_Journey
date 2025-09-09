@@ -18,6 +18,12 @@ namespace HelloWOrld
             int b = 2;
             int result = a / b;
             Console.WriteLine(result);
+            long mynum = 15000000000; // data type long
+Console.WriteLine(mynum);
+bool isCSharpfun = true; //data type boolean
+bool isfishtasty = false;
+Console.WriteLine(isCSharpfun); // prints true
+Console.WriteLine(isfishtasty); // prints false
         }
     }
 }
