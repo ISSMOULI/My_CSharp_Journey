@@ -1,0 +1,15 @@
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.exe
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.deps.json
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.json
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.dll
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.sourcelink.json
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.dll
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\refint\ConsoleApp2.dll
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\ssmou\OneDrive\Desktop\C#\New folder\ConsoleApp2\obj\Debug\net10.0\ref\ConsoleApp2.dll
