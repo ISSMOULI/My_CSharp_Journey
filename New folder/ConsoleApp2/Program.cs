@@ -29,3 +29,8 @@ Console.WriteLine(k > 5 && k < 10); //prints true as k is greater than 5 and les
 Console.WriteLine(k > 5 || k < 10); //prints true as k is greater than 5 or less than 10
 Console.WriteLine(!(k > 5)); //prints false as k is greater than 5  
 
+
+Console.WriteLine(k > 5 && k < 10); //prints true as k is greater than 5 and less than 10
+Console.WriteLine(k > 5 || k < 10); //prints true as k is greater than 5 or less than 10
+Console.WriteLine(!(k > 5)); //prints false as k is greater than 5  
+
