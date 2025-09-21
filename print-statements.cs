@@ -14,4 +14,6 @@ Console.WriteLine(userage); // prints user input
 Console.WriteLine("Hello " + username + ", you are " + userage + " years old."); // prints a greeting message with user input
 Console.WriteLine(Math.Max(5, 10));
 Console.WriteLine(Math.Min(5, 10));
-Console.WriteLine(Math.Sqrt(64));  
+Console.WriteLine(Math.Sqrt(64));
+Console.WriteLine(Math.Abs(-4.7));
+Console.WriteLine(Math.Abs(-4.7));
