@@ -8,7 +8,10 @@ bool isfishtasty = false;
 Console.WriteLine(isCSharpfun); // prints true
 Console.WriteLine(isfishtasty); // prints false
 string username = Console.ReadLine(); // takes user input
-int userage = Console.ReadLine(); // takes user input
+int userage = int.Parse(Console.ReadLine()); // takes user input and parses it to int
 Console.WriteLine(username); // prints user input
 Console.WriteLine(userage); // prints user input
 Console.WriteLine("Hello " + username + ", you are " + userage + " years old."); // prints a greeting message with user input
+Console.WriteLine(Math.Max(5, 10));
+Console.WriteLine(Math.Min(5, 10));
+Console.WriteLine(Math.Sqrt(64));  
