@@ -23,7 +23,14 @@ Console.WriteLine(mynum);
 bool isCSharpfun = true; //data type boolean
 bool isfishtasty = false;
 Console.WriteLine(isCSharpfun); // prints true
-Console.WriteLine(isfishtasty); // prints false
+            Console.WriteLine(isfishtasty); // prints false
+Console.WriteLine(Math.Max(5, 10));
+Console.WriteLine(Math.Min(5, 10));
+Console.WriteLine(Math.Sqrt(64));      
+Console.WriteLine(Math.Abs(-4.7));
+Console.WriteLine(Math.Round(4.6));
+Console.WriteLine(Math.Ceiling(4.2));
+Console.WriteLine(Math.Floor(4.7));
         }
     }
 }
