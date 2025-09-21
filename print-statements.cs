@@ -17,3 +17,5 @@ Console.WriteLine(Math.Min(5, 10));
 Console.WriteLine(Math.Sqrt(64));
 Console.WriteLine(Math.Abs(-4.7));
 Console.WriteLine(Math.Abs(-4.7));
+Console.WriteLine(Math.Round(4.6));
+Console.WriteLine(Math.Ceiling(4.2));
