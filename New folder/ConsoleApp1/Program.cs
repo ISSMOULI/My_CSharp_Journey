@@ -26,7 +26,7 @@ namespace HelloWOrld
             Console.WriteLine(isfishtasty); // prints false
             Console.WriteLine(Math.Max(5, 10));
             Console.WriteLine(Math.Min(5, 10));
-            Console.WriteLine(Math.Sqrt(64));      
+            Console.WriteLine(Math.Sqrt(64));
             Console.WriteLine(Math.Abs(-4.7));
             Console.WriteLine(Math.Round(4.6));
             Console.WriteLine(Math.Ceiling(4.2));
@@ -37,6 +37,11 @@ namespace HelloWOrld
             bool sfishtasty = false;
             Console.WriteLine(sCSharpfun); // prints true
             Console.WriteLine(sfishtasty); // prints false
+            
+             bool sCSharpfu = true; //data type boolean
+            bool sfishtast = false;
+            Console.WriteLine(sCSharpfu); // prints true
+            Console.WriteLine(sfishtast); // prints false
         }
     }
 }
