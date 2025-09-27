@@ -38,7 +38,7 @@ namespace HelloWOrld
             Console.WriteLine(sCSharpfun); // prints true
             Console.WriteLine(sfishtasty); // prints false
             
-             bool sCSharpfu = true; //data type boolean
+            bool sCSharpfu = true; //data type boolean
             bool sfishtast = false;
             Console.WriteLine(sCSharpfu); // prints true
             Console.WriteLine(sfishtast); // prints false
