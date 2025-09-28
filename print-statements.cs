@@ -21,16 +21,7 @@ Console.WriteLine(Math.Round(4.6));
 Console.WriteLine(Math.Ceiling(4.2));
 Console.WriteLine(Math.Floor(4.7));
 
-Console.WriteLine(Math.Abs(-4.7));
-Console.WriteLine(Math.Abs(-4.7));
-Console.WriteLine(Math.Round(4.6));
-Console.WriteLine(Math.Ceiling(4.2));
-Console.WriteLine(Math.Floor(4.7));
 
-
-Console.WriteLine(Math.Abs(-4.7));
-Console.WriteLine(Math.Round(4.6));
-Console.WriteLine(Math.Ceiling(4.2));
-Console.WriteLine(Math.Floor(4.7));
-
-Console.WriteLine(Math.Floor(4.7));
+int xyz = 5;
+int yz = 3;
+Console.WriteLine(xyz > yz);
