@@ -45,3 +45,12 @@ Console.WriteLine(Math.Ceiling(4.2));
 Console.WriteLine(Math.Floor(4.7));
 
 
+
+
+//practice
+string name = "asdfghjkl";
+Console.WriteLine("hello " + name);
+Console.WriteLine($"hello {name}");
+Console.WriteLine(name.Length);
+
+
